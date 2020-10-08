@@ -1,0 +1,5 @@
+condacreate-nstyle-transferpython=3
+condaactivatestyle-transfer
+condainstalltensorflowscipypillow
+pipinstallmoviepy
+python-c"importimageio;imageio.plugins.ffmpeg.download()"
